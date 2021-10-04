@@ -21,7 +21,7 @@
 
 
 
-# Etch-a-sketch
+# Etch-a-Sketch
 
 Originally a mechanical drawing toy which consists of two knobs that are used to move the 'painter' cursor horizontally and vertically, which left a solid line.    
 Now digitized with the power of JavaScript
