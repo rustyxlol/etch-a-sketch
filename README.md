@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/Tic-tac-toe" target="_blank"> <img src="https://static.wikia.nocookie.net/pixar/images/4/4e/Etch_A_Sketch.png/" alt="Tic-tac-toe" width="250" height="200"/> </a> 
+  <a href="https://en.wikipedia.org/wiki/Etch_A_Sketch" target="_blank"> <img src="https://static.wikia.nocookie.net/pixar/images/4/4e/Etch_A_Sketch.png/" alt="Tic-tac-toe" width="250" height="200"/> </a> 
   </a>
 
 
